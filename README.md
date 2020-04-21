@@ -1,11 +1,11 @@
 # Trabajo3evaEntornoRafael
    
-  * __GH Chat__
-	* Rafael Oliva Ramirez
-	* Apartado dónde se especifique:
-	  * Sprint
-		* Fecha del Sprint
-		* Tareas realizadas por el alumno
-		* Tiempo empleado en cada tarea
-		* Herramientas usadas
-		* Bibliografía usada
+ * GH Chat
+ * Rafael Oliva Ramirez
+ * Apartado dónde se especifique:
+	* Sprint1
+	* 21/04/2020
+	* Sprint1
+	* 4H
+	* Mockflow
+	* https://www.mockflow.com/app/#Wireframe
