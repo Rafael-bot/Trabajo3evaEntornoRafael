@@ -3,9 +3,9 @@
   * __GH Chat__
 	* Rafael Oliva Ramirez
 	* Apartado dónde se especifique:
-	  * Sprint
-		* Fecha del Sprint
-		* Tareas realizadas por el alumno
-		* Tiempo empleado en cada tarea
-		* Herramientas usadas
-		* Bibliografía usada
+	  * Sprint 2
+		* 06/05/2020
+		* Hacer un diagrama de clase, otro de objeto y un markdown.
+		* 10 Horas
+		* Lucichad, StackEdit y Imgur
+		* Ninguna
