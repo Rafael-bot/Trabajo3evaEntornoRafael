@@ -1,11 +1,12 @@
 # Trabajo3evaEntornoRafael
    
- * GH Chat
- * Rafael Oliva Ramirez
- * Apartado dónde se especifique:
-	* Sprint1
-	* 21/04/2020
-	* Sprint1
-	* 4H
-	* Mockflow
-	* https://www.mockflow.com/app/#Wireframe
+  * __GH Chat__
+	* Rafael Oliva Ramirez
+	* Apartado dónde se especifique:
+	  * Sprint 2
+		* 06/05/2020
+		* Hacer un diagrama de clase, otro de objeto y un markdown.
+		* 10 Horas
+		* Lucichad, StackEdit y Imgur
+		* Ninguna
+
