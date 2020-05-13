@@ -1,4 +1,0 @@
-Descripción: El cliente que no tenga usuario tendrá acceso a la tienda con la que obtendra un usuario, tambien al Comunity Chat
-	     y al Atención al Cliente. El Logo que esta a arriba a la izquierda te llevara a la pagina de inicio. 
-	     En el centro estara las novedades de la App. Y por ultimo si ya tiene una cuenta le dara al boton de Login
-	     para loguearse.
