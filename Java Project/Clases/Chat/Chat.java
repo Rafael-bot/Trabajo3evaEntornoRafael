@@ -1,6 +1,6 @@
 package Clases.Chat;
 
-public class Chat extends PaginaPrincipal{
+public class Chat {
 	
 	private Comunity com;
 	private Group group;
